@@ -215,7 +215,7 @@ we have 3 different packages for modular kitchen starting from 1100/sqft to 1700
 <div class="bg-white rounded-[35px] overflow-hidden shadow-xl relative">
 
   <div class="relative bg-slate-100">
-    <img src="/ward.jpeg" class="w-[90%] mx-auto h-[360px] object-contain" alt="LUXURY WARDROBE" loading="lazy">
+    <img src="ward.jpeg" class="w-[90%] mx-auto h-[360px] object-contain" alt="LUXURY WARDROBE" loading="lazy">
 
     <div class="absolute top-5 left-5 bg-[#d2ae6d] text-black font-bold px-5 py-2 rounded-full text-sm">
      SECOND MOST POPULAR
