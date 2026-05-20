@@ -476,7 +476,7 @@ Fire Resistant Material--
 
 <div class="bg-white rounded-[35px] overflow-hidden shadow-xl relative mb-10">
   <div class="relative bg-slate-100">
-    <img src="compl--/inte.jpg" class="w-[90%] mx-auto h-[360px] object-contain" alt="Complete Home Interior Varanasi" loading="lazy">
+    <img src="https://i.ibb.co/jPWCHWWP/inte.jpg"w-[90%] mx-auto h-[360px] object-contain" alt="Complete Home Interior Varanasi" loading="lazy">
     <div class="absolute top-5 left-5 bg-[#bd7339] text-black font-bold px-5 py-2 rounded-full text-sm">Trending</div>
     <div class="absolute bottom-5 right-5 bg-[#4b4947] text-white font-bold px-5 py-3 rounded-full text-xl">From ₹2.91L</div>
   </div>
