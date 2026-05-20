@@ -366,7 +366,7 @@ Fire Resistant Material--
 
   <div class="relative">
    
-    <img src="ward-/wall-dec/wall-deco.jpg" class="w-full h-[320px] object-cover" alt="WALLPAPER DECOR">
+    <img src="https://i.ibb.co/VWmXsxX2/wall-deco.jpg" class="w-full h-[320px] object-cover" alt="WALLPAPER DECOR">
 
     <div class="absolute top-5 left-5 bg-[#d2ae6d] text-black font-bold px-5 py-2 rounded-full text-sm">
      TRENDING
