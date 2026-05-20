@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Kitchen Interiors | Varanasi</title>
+    <style>
+        /* CSS: The "Design" of your site */
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', sans-serif; }
+        
+        /* Navigation */
+        nav { background: #2c3e50; color: white; padding: 1rem 5%; display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; z-index: 100; }
+        nav h2 { color: #f39c12; }
+        nav ul { list-style: none; display: flex; }
+        nav ul li { margin-left: 20px; }
+        nav ul li a { color: white; text-decoration: none; font-weight: bold; }
+
+        /* Hero Section */
+        .hero { 
+            height: 60vh; 
+            background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1350&q=80'); 
+            background-size: cover; background-position: center;
+            display: flex; flex-direction: column; justify-content: center; align-items: center; color: white; text-align: center;
+        }
+        .hero h1 { font-size: 3rem; margin-bottom: 10px; }
+        .hero p { font-size: 1.2rem; margin-bottom: 20px; }
+        .cta-btn { background: #f39c12; color: white; padding: 12px 30px; text-decoration: none; border-radius: 5px; font-weight: bold; }
+
+        /* Services Section */
+        .services { padding: 50px 5%; text-align: center; background: #f9f9f9; }
+        .service-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 30px; }
+        .card { background: white; padding: 30px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+        .card h3 { margin-bottom: 15px; color: #2c3e50; }
+
+        /* Contact Form */
+        .contact { padding: 50px 5%; text-align: center; }
+        form { max-width: 500px; margin: 30px auto; display: flex; flex-direction: column; gap: 15px; }
+        input, textarea { padding: 12px; border: 1px solid #ddd; border-radius: 5px; width: 100%; }
+        form button { background: #2c3e50; color: white; padding: 15px; border: none; border-radius: 5px; cursor: pointer; font-size: 1rem; }
+        form button:hover { background: #34495e; }
+
+        footer { background: #2c3e50; color: white; text-align: center; padding: 20px; margin-top: 40px; }
+    </style>
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav>
+        <h2>Varanasi Kitchens</h2>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Hero -->
+    <section class="hero">
+        <h1>Beautiful Modular Kitchens</h1>
+        <p>Premium designs with a 10-year warranty. Based in Varanasi.</p>
+        <a href="#contact" class="cta-btn">Get Free Quote</a>
+    </section>
+
+    <!-- Services -->
+    <section class="services" id="services">
+        <h2>Our Specialized Services</h2>
+        <div class="service-container">
+            <div class="card">
+                <h3>Modular Kitchens</h3>
+                <p>Custom U-shaped, L-shaped, and Island designs using high-quality timber.</p>
+            </div>
+            <div class="card">
+                <h3>Modern Wardrobes</h3>
+                <p>Space-saving sliding and swing wardrobes for your bedrooms.</p>
+            </div>
+            <div class="card">
+                <h3>3D Visualization</h3>
+                <p>See your kitchen in 3D before we even start the construction.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact" id="contact">
+        <h2>Consult Our Experts</h2>
+        <p>Drop your details and we will call you back today!</p>
+        <form>
+            <input type="text" placeholder="Your Name" required>
+            <input type="email" placeholder="Your Email" required>
+            <input type="text" placeholder="Your Phone Number" required>
+            <textarea rows="4" placeholder="How can we help you?"></textarea>
+            <button type="submit">Send Message</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Varanasi Kitchen Designs. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
