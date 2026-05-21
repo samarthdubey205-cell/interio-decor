@@ -318,7 +318,7 @@ we have 3 different packages for modular kitchen starting from 1100/sqft to 1700
 
   <div class="relative">
    
-    <img src="false-/geometric-ceiling-designs-feature-sharp-lines.avif" class="w-full h-[400px] object-contain bg-gray-50" alt="FALSE CEILING">
+    <img src="https://i.ibb.co/B2qx3g5C/geometric-ceiling-designs-feature-sharp-lines.avif" class="w-full h-[400px] object-contain bg-gray-50" alt="FALSE CEILING">
        
 
     <div class="absolute top-5 left-5 bg-[#d2ae6d] text-black font-bold px-5 py-2 rounded-full text-sm">
