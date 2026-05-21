@@ -20,11 +20,9 @@ app.get('/', (req, res) => {
     <meta name="description" content="Transform your home with luxury modular kitchens and custom wardrobes by Vidya Timber. Serving Sigra, Lanka, Nadesar, and across Varanasi. Book a free consultation today.">
     <meta name="keywords" content="modular kitchen Varanasi, wardrobe designers Varanasi, luxury interiors Sigra, kitchen chimney Lanka, home interior interio decor, custom wardrobes Nadesar, Varanasi interior design, modular kitchen installation Varanasi, best interior studio Varanasi">
 
-    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script
     <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <style>
-        html { scroll-behavior: smooth; }
+       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+        <style>
         body { background-color: #020617; color: #f8fafc; font-family: 'Inter', sans-serif; overflow-x: hidden; }
        
         /* THEME GRADIENTS */
