@@ -15,7 +15,12 @@ app.get('/', (req, res) => {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Interio Decor | Luxury Varanasi Interior Studio</title>
+   
+    <title>interio decor | Premium Modular Kitchens & Wardrobes in Varanasi</title>
+    <meta name="description" content="Transform your home with luxury modular kitchens and custom wardrobes by Vidya Timber. Serving Sigra, Lanka, Nadesar, and across Varanasi. Book a free consultation today.">
+    <meta name="keywords" content="modular kitchen Varanasi, wardrobe designers Varanasi, luxury interiors Sigra, kitchen chimney Lanka, home interior interio decor, custom wardrobes Nadesar, Varanasi interior design, modular kitchen installation Varanasi, best interior studio Varanasi">
+
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
@@ -215,7 +220,7 @@ we have 3 different packages for modular kitchen starting from 1100/sqft to 1700
 <div class="bg-white rounded-[35px] overflow-hidden shadow-xl relative">
 
   <div class="relative bg-slate-100">
-    <img src="https://i.ibb.co/B59Wd1z4/ward-jpeg.jpg" class="w-[90%] mx-auto h-[360px] object-contain" alt="LUXURY WARDROBE" loading="lazy">
+    <img src="-/ward.jpg" class="w-[90%] mx-auto h-[360px] object-contain" alt="LUXURY WARDROBE" loading="lazy">
 
     <div class="absolute top-5 left-5 bg-[#d2ae6d] text-black font-bold px-5 py-2 rounded-full text-sm">
      SECOND MOST POPULAR
@@ -315,7 +320,7 @@ we have 3 different packages for modular kitchen starting from 1100/sqft to 1700
 
   <div class="relative">
    
-    <img src="https://i.ibb.co/kgyd5bsM/geometric-ceiling-designs-feature-sharp-lines.avif" class="w-full h-[400px] object-contain bg-gray-50" alt="FALSE CEILING">
+    <img src="false-/geometric-ceiling-designs-feature-sharp-lines.avif" class="w-full h-[400px] object-contain bg-gray-50" alt="FALSE CEILING">
        
 
     <div class="absolute top-5 left-5 bg-[#d2ae6d] text-black font-bold px-5 py-2 rounded-full text-sm">
@@ -366,7 +371,7 @@ Fire Resistant Material--
 
   <div class="relative">
    
-    <img src="https://i.ibb.co/VWmXsxX2/wall-deco.jpg" class="w-full h-[320px] object-cover" alt="WALLPAPER DECOR">
+    <img src="ward-/wall-dec/wall-deco.jpg" class="w-full h-[320px] object-cover" alt="WALLPAPER DECOR">
 
     <div class="absolute top-5 left-5 bg-[#d2ae6d] text-black font-bold px-5 py-2 rounded-full text-sm">
      TRENDING
@@ -476,7 +481,7 @@ Fire Resistant Material--
 
 <div class="bg-white rounded-[35px] overflow-hidden shadow-xl relative mb-10">
   <div class="relative bg-slate-100">
-    <img src="https://i.ibb.co/jPWCHWWP/inte.jpg"w-[90%] mx-auto h-[360px] object-contain" alt="Complete Home Interior Varanasi" loading="lazy">
+    <img src="compl--/inte.jpg" class="w-[90%] mx-auto h-[360px] object-contain" alt="Complete Home Interior Varanasi" loading="lazy">
     <div class="absolute top-5 left-5 bg-[#bd7339] text-black font-bold px-5 py-2 rounded-full text-sm">Trending</div>
     <div class="absolute bottom-5 right-5 bg-[#4b4947] text-white font-bold px-5 py-3 rounded-full text-xl">From ₹2.91L</div>
   </div>
