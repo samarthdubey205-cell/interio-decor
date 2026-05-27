@@ -211,7 +211,7 @@ app.get('/', (req, res) => {
 <!-- Photo Card 4 -->
         <div class="glass-card rounded-2xl overflow-hidden shadow-lg border border-white/5 group">
             <div class="h-64 overflow-hidden">
-                <img src="https://i.ibb.co/pvzRsPJz/small.webp"
+                <img src="https://i.ibb.co/mF8c9Vrb/home.jpg"
                      alt="Complete Home Interior"
                      class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
             </div>
