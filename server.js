@@ -157,7 +157,60 @@ app.get('/', (req, res) => {
                <div class="bg-white rounded-[35px] overflow-hidden shadow-xl relative">
 
   <div class="relative">
-   
+   <!-- View our premium work -->
+<section id="gallery" class="py-16 px-4 max-w-7xl mx-auto">
+    <div class="text-center mb-12">
+        <h2 class="text-3xl font-bold text-white mb-2">Our Luxury Creations</h2>
+        <p class="text-gray-400">Real modular kitchens designed and installed in Varanasi</p>
+    </div>
+
+    <!-- Responsive Photo Grid (3 columns on laptop, 1 on mobile) -->
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+       
+        <!-- Photo Card 1 -->
+        <div class="glass-card rounded-2xl overflow-hidden shadow-lg border border-white/5 group">
+            <div class="h-64 overflow-hidden">
+                <img src="https://images.unsplash.com/photo-1556911220-e15b29be8c8f?q=80&w=600"
+                     alt="Premium Modular Kitchen"
+                     class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
+            </div>
+            <div class="p-6">
+                <h3 class="text-xl font-semibold text-white mb-1">Modern Acrylic Kitchen</h3>
+                <p class="text-gray-400 text-sm mb-4">Churamanpur, Varanasi</p>
+                <a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+            </div>
+        </div>
+
+        <!-- Photo Card 2 -->
+        <div class="glass-card rounded-2xl overflow-hidden shadow-lg border border-white/5 group">
+            <div class="h-64 overflow-hidden">
+                <img src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?q=80&w=600"
+                     alt="Luxury Kitchen Design"
+                     class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
+            </div>
+            <div class="p-6">
+                <h3 class="text-xl font-semibold text-white mb-1">Matt Finish Premium Kitchen</h3>
+                <p class="text-gray-400 text-sm mb-4">Lanka, Varanasi</p>
+                <a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+            </div>
+        </div>
+
+        <!-- Photo Card 3 -->
+        <div class="glass-card rounded-2xl overflow-hidden shadow-lg border border-white/5 group">
+            <div class="h-64 overflow-hidden">
+                <img src="https://images.unsplash.com/photo-1600585154526-990dced4db0d?q=80&w=600"
+                     alt="Compact Modular Kitchen"
+                     class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
+            </div>
+            <div class="p-6">
+                <h3 class="text-xl font-semibold text-white mb-1">Space-Saving Modular Setup</h3>
+                <p class="text-gray-400 text-sm mb-4">Cantt, Varanasi</p>
+                <a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+            </div>
+        </div>
+
+    </div>
+</section>
     <img
       src="https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1200&q=80" class="w-full h-[320px] object-cover"
       alt="MODULAR KITCHEN"
@@ -218,7 +271,7 @@ we have 3 different packages for modular kitchen starting from 1100/sqft to 1700
 <div class="bg-white rounded-[35px] overflow-hidden shadow-xl relative">
 
   <div class="relative bg-slate-100">
-    <img src="https://i.ibb.co/0p5gpV33/ward-jpeg.jpg" class="w-[90%] mx-auto h-[360px] object-contain" alt="LUXURY WARDROBE" loading="lazy">
+    <img src="-/ward.jpg" class="w-[90%] mx-auto h-[360px] object-contain" alt="LUXURY WARDROBE" loading="lazy">
 
     <div class="absolute top-5 left-5 bg-[#d2ae6d] text-black font-bold px-5 py-2 rounded-full text-sm">
      SECOND MOST POPULAR
@@ -318,7 +371,7 @@ we have 3 different packages for modular kitchen starting from 1100/sqft to 1700
 
   <div class="relative">
    
-    <img src="https://i.ibb.co/B2qx3g5C/geometric-ceiling-designs-feature-sharp-lines.avif" class="w-full h-[400px] object-contain bg-gray-50" alt="FALSE CEILING">
+    <img src="false-/geometric-ceiling-designs-feature-sharp-lines.avif" class="w-full h-[400px] object-contain bg-gray-50" alt="FALSE CEILING">
        
 
     <div class="absolute top-5 left-5 bg-[#d2ae6d] text-black font-bold px-5 py-2 rounded-full text-sm">
@@ -369,7 +422,7 @@ Fire Resistant Material--
 
   <div class="relative">
    
-    <img src="https://i.ibb.co/7dng2ffh/wall-deco.jpg" class="w-full h-[320px] object-cover" alt="WALLPAPER DECOR">
+    <img src="ward-/wall-dec/wall-deco.jpg" class="w-full h-[320px] object-cover" alt="WALLPAPER DECOR">
 
     <div class="absolute top-5 left-5 bg-[#d2ae6d] text-black font-bold px-5 py-2 rounded-full text-sm">
      TRENDING
@@ -479,7 +532,7 @@ Fire Resistant Material--
 
 <div class="bg-white rounded-[35px] overflow-hidden shadow-xl relative mb-10">
   <div class="relative bg-slate-100">
-    <img src="https://i.ibb.co/Zsf8y60/inte.jpg" class="w-[90%] mx-auto h-[360px] object-contain" alt="Complete Home Interior Varanasi" loading="lazy">
+    <img src="compl--/inte.jpg" class="w-[90%] mx-auto h-[360px] object-contain" alt="Complete Home Interior Varanasi" loading="lazy">
     <div class="absolute top-5 left-5 bg-[#bd7339] text-black font-bold px-5 py-2 rounded-full text-sm">Trending</div>
     <div class="absolute bottom-5 right-5 bg-[#4b4947] text-white font-bold px-5 py-3 rounded-full text-xl">From ₹2.91L</div>
   </div>
