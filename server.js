@@ -17,10 +17,10 @@ app.get('/', (req, res) => {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
    
     <title>interio decor | Premium Modular Kitchens & Wardrobes in Varanasi</title>
-    <meta name="description" content="Transform your home with luxury modular kitchens and custom wardrobes by Interio Decor. Serving Sigra, Lanka, Nadesar, and across Varanasi. Book a free consultation today.">
+    <meta name="description" content="Transform your home with luxury modular kitchens and custom wardrobes by Vidya Timber. Serving Sigra, Lanka, Nadesar, and across Varanasi. Book a free consultation today.">
     <meta name="keywords" content="modular kitchen Varanasi, wardrobe designers Varanasi, luxury interiors Sigra, kitchen chimney Lanka, home interior interio decor, custom wardrobes Nadesar, Varanasi interior design, modular kitchen installation Varanasi, best interior studio Varanasi">
 
-    <script src="https://i.ibb.co/yFy1mJVB/ward-jpeg.jpg></script>
+    <script src="https://cdn.tailwindcss.com"></script>
        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
         <style>
         body { background-color: #020617; color: #f8fafc; font-family: 'Inter', sans-serif; overflow-x: hidden; }
@@ -154,7 +154,7 @@ app.get('/', (req, res) => {
     </div>
 </div>   
             
-               <div class="bg-white rounded-[35px]"> overflow-hidden shadow-xl relative">
+               <div class="bg-white rounded-[35px] overflow-hidden shadow-xl relative">
 
   <div class="relative">
    <!-- View our premium work -->
@@ -170,7 +170,7 @@ app.get('/', (req, res) => {
         <!-- Photo Card 1 -->
         <div class="glass-card rounded-2xl overflow-hidden shadow-lg border border-white/5 group">
             <div class="h-64 overflow-hidden">
-                <img src="https://i.ibb.co/ZzdMYmfn/arc.webp"
+                <img src="https://images.unsplash.com/photo-1556911220-e15b29be8c8f?q=80&w=600"
                      alt="Premium Modular Kitchen"
                      class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
             </div>
@@ -184,12 +184,12 @@ app.get('/', (req, res) => {
         <!-- Photo Card 2 -->
         <div class="glass-card rounded-2xl overflow-hidden shadow-lg border border-white/5 group">
             <div class="h-64 overflow-hidden">
-                <img src="https://i.ibb.co/svbTRn5x/matt.webp"
+                <img src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?q=80&w=600"
                      alt="Luxury Kitchen Design"
                      class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
             </div>
             <div class="p-6">
-                <h3 class="text-xl font-semibold text-white mb-1">Matt Finish Premium Kitchen</h3><div class="p-6">
+                <h3 class="text-xl font-semibold text-white mb-1">Matt Finish Premium Kitchen</h3>
                 <p class="text-gray-400 text-sm mb-4">Lanka, Varanasi</p>
                 <a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
             </div>
@@ -198,31 +198,18 @@ app.get('/', (req, res) => {
         <!-- Photo Card 3 -->
         <div class="glass-card rounded-2xl overflow-hidden shadow-lg border border-white/5 group">
             <div class="h-64 overflow-hidden">
-                <img src="https://i.ibb.co/WNszbkqx/small.webp"
+                <img src="https://images.unsplash.com/photo-1600585154526-990dced4db0d?q=80&w=600"
                      alt="Compact Modular Kitchen"
                      class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
             </div>
             <div class="p-6">
-                <h3 class="text-xl font-semibold text-white mb-1">Space-Saving Modular Setup</h3><div class="p-6">
+                <h3 class="text-xl font-semibold text-white mb-1">Space-Saving Modular Setup</h3>
                 <p class="text-gray-400 text-sm mb-4">Cantt, Varanasi</p>
-                <div class="p-6">
-                <h3 class="text-xl font-semibold text-white mb-1">Space-Saving Modular Setup</h3><a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+                <a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
             </div>
         </div>
-<!-- Photo Card 4 -->
-        <div class="glass-card rounded-2xl overflow-hidden shadow-lg border border-white/5 group">
-            <div class="h-64 overflow-hidden">
-                <img src=https://i.ibb.co/sp3h1h98/home.jpg"
-                     alt="HOME INTERIOR"
-                     class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
-            </div>
-<div class="p-6">
-                <h3 class="text-xl font-semibold text-white mb-1">Home Interior Set-Up</h3><div class="p-6">
-                <p class="text-gray-400 text-sm mb-4">Nadesar, Varanasi</p>
-                <div class="p-6">
-                <h3 class="text-xl font-semibold text-white mb-1">Home Interior Set-Up</h3><a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
-    </div>
 
+    </div>
 </section>
     <img
       src="https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1200&q=80" class="w-full h-[320px] object-cover"
@@ -284,7 +271,7 @@ we have 3 different packages for modular kitchen starting from 1100/sqft to 1700
 <div class="bg-white rounded-[35px] overflow-hidden shadow-xl relative">
 
   <div class="relative bg-slate-100">
-    <img src="https://i.ibb.co/yFy1mJVB/ward-jpeg.jpg" class="w-[90%] mx-auto h-[360px] object-contain" alt="LUXURY WARDROBE" loading="lazy">
+    <img src="-/ward.jpg" class="w-[90%] mx-auto h-[360px] object-contain" alt="LUXURY WARDROBE" loading="lazy">
 
     <div class="absolute top-5 left-5 bg-[#d2ae6d] text-black font-bold px-5 py-2 rounded-full text-sm">
      SECOND MOST POPULAR
