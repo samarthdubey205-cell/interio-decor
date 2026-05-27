@@ -184,7 +184,7 @@ app.get('/', (req, res) => {
         <!-- Photo Card 2 -->
         <div class="glass-card rounded-2xl overflow-hidden shadow-lg border border-white/5 group">
             <div class="h-64 overflow-hidden">
-                <img src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?q=80&w=600"
+                <img src="https://i.ibb.co/svbTRn5x/matt.webp"
                      alt="Luxury Kitchen Design"
                      class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
             </div>
@@ -198,7 +198,7 @@ app.get('/', (req, res) => {
         <!-- Photo Card 3 -->
         <div class="glass-card rounded-2xl overflow-hidden shadow-lg border border-white/5 group">
             <div class="h-64 overflow-hidden">
-                <img src="https://images.unsplash.com/photo-1600585154526-990dced4db0d?q=80&w=600"
+                <img src="https://i.ibb.co/WNszbkqx/small.webp"
                      alt="Compact Modular Kitchen"
                      class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
             </div>
