@@ -154,7 +154,7 @@ app.get('/', (req, res) => {
     </div>
 </div>   
             
-               <div class="bg-white rounded-[35px] overflow-hidden shadow-xl relative">
+               <div class="bg-white rounded-[35px]"> overflow-hidden shadow-xl relative">
 
   <div class="relative">
    <!-- View our premium work -->
@@ -170,7 +170,7 @@ app.get('/', (req, res) => {
         <!-- Photo Card 1 -->
         <div class="glass-card rounded-2xl overflow-hidden shadow-lg border border-white/5 group">
             <div class="h-64 overflow-hidden">
-                <img src="https://images.unsplash.com/photo-1556911220-e15b29be8c8f?q=80&w=600"
+                <img src="https://i.ibb.co/ZzdMYmfn/arc.webp"
                      alt="Premium Modular Kitchen"
                      class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
             </div>
