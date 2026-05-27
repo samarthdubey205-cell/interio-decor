@@ -20,7 +20,7 @@ app.get('/', (req, res) => {
     <meta name="description" content="Transform your home with luxury modular kitchens and custom wardrobes by Interio Decor. Serving Sigra, Lanka, Nadesar, and across Varanasi. Book a free consultation today.">
     <meta name="keywords" content="modular kitchen Varanasi, wardrobe designers Varanasi, luxury interiors Sigra, kitchen chimney Lanka, home interior interio decor, custom wardrobes Nadesar, Varanasi interior design, modular kitchen installation Varanasi, best interior studio Varanasi">
 
-    <script src="https://i.ibb.co/yFy1mJVB/ward-jpeg.jpg"></script>
+    <script src="https://i.ibb.co/yFy1mJVB/ward-jpeg.jpg></script>
        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
         <style>
         body { background-color: #020617; color: #f8fafc; font-family: 'Inter', sans-serif; overflow-x: hidden; }
@@ -284,7 +284,7 @@ we have 3 different packages for modular kitchen starting from 1100/sqft to 1700
 <div class="bg-white rounded-[35px] overflow-hidden shadow-xl relative">
 
   <div class="relative bg-slate-100">
-    <img src="-/https://i.ibb.co/yFy1mJVB/ward-jpeg.jpg" class="w-[90%] mx-auto h-[360px] object-contain" alt="LUXURY WARDROBE" loading="lazy">
+    <img src="https://i.ibb.co/yFy1mJVB/ward-jpeg.jpg" class="w-[90%] mx-auto h-[360px] object-contain" alt="LUXURY WARDROBE" loading="lazy">
 
     <div class="absolute top-5 left-5 bg-[#d2ae6d] text-black font-bold px-5 py-2 rounded-full text-sm">
      SECOND MOST POPULAR
