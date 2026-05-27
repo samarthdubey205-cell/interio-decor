@@ -189,7 +189,7 @@ app.get('/', (req, res) => {
                      class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
             </div>
             <div class="p-6">
-                <h3 class="text-xl font-semibold text-white mb-1">Matt Finish Premium Kitchen</h3>
+                <h3 class="text-xl font-semibold text-white mb-1">Matt Finish Premium Kitchen</h3><div class="p-6">
                 <p class="text-gray-400 text-sm mb-4">Lanka, Varanasi</p>
                 <a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
             </div>
@@ -203,13 +203,26 @@ app.get('/', (req, res) => {
                      class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
             </div>
             <div class="p-6">
-                <h3 class="text-xl font-semibold text-white mb-1">Space-Saving Modular Setup</h3>
+                <h3 class="text-xl font-semibold text-white mb-1">Space-Saving Modular Setup</h3><div class="p-6">
                 <p class="text-gray-400 text-sm mb-4">Cantt, Varanasi</p>
-                <a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+                <div class="p-6">
+                <h3 class="text-xl font-semibold text-white mb-1">Space-Saving Modular Setup</h3><a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
             </div>
         </div>
-
+<!-- Photo Card 4 -->
+        <div class="glass-card rounded-2xl overflow-hidden shadow-lg border border-white/5 group">
+            <div class="h-64 overflow-hidden">
+                <img src=https://i.ibb.co/sp3h1h98/home.jpg"
+                     alt="HOME INTERIOR"
+                     class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
+            </div>
+<div class="p-6">
+                <h3 class="text-xl font-semibold text-white mb-1">Home Interior Set-Up</h3><div class="p-6">
+                <p class="text-gray-400 text-sm mb-4">Nadesar, Varanasi</p>
+                <div class="p-6">
+                <h3 class="text-xl font-semibold text-white mb-1">Home Interior Set-Up</h3><a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
     </div>
+
 </section>
     <img
       src="https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1200&q=80" class="w-full h-[320px] object-cover"
