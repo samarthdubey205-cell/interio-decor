@@ -170,7 +170,7 @@ app.get('/', (req, res) => {
         <!-- Photo Card 1 -->
         <div class="glass-card rounded-2xl overflow-hidden shadow-lg border border-white/5 group">
             <div class="h-64 overflow-hidden">
-                <img src="https://images.unsplash.com/photo-1556911220-e15b29be8c8f?q=80&w=600"
+                <img src="https://i.ibb.co/MyRPgKkh/arc.webp"
                      alt="Premium Modular Kitchen"
                      class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
             </div>
@@ -184,7 +184,7 @@ app.get('/', (req, res) => {
         <!-- Photo Card 2 -->
         <div class="glass-card rounded-2xl overflow-hidden shadow-lg border border-white/5 group">
             <div class="h-64 overflow-hidden">
-                <img src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?q=80&w=600"
+                <img src="https://i.ibb.co/cXkjrVNH/matt.webp"
                      alt="Luxury Kitchen Design"
                      class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
             </div>
@@ -198,7 +198,7 @@ app.get('/', (req, res) => {
         <!-- Photo Card 3 -->
         <div class="glass-card rounded-2xl overflow-hidden shadow-lg border border-white/5 group">
             <div class="h-64 overflow-hidden">
-                <img src="https://images.unsplash.com/photo-1600585154526-990dced4db0d?q=80&w=600"
+                <img src="https://i.ibb.co/pvzRsPJz/small.webp"
                      alt="Compact Modular Kitchen"
                      class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
             </div>
@@ -422,7 +422,7 @@ Fire Resistant Material--
 
   <div class="relative">
    
-    <img src="ward-/wall-dec/wall-deco.jpg" class="w-full h-[320px] object-cover" alt="WALLPAPER DECOR">
+    <img src="https://i.ibb.co/m5ThGfMq/wall-deco.jpg" class="w-full h-[320px] object-cover" alt="WALLPAPER DECOR">
 
     <div class="absolute top-5 left-5 bg-[#d2ae6d] text-black font-bold px-5 py-2 rounded-full text-sm">
      TRENDING
@@ -532,7 +532,7 @@ Fire Resistant Material--
 
 <div class="bg-white rounded-[35px] overflow-hidden shadow-xl relative mb-10">
   <div class="relative bg-slate-100">
-    <img src="compl--/inte.jpg" class="w-[90%] mx-auto h-[360px] object-contain" alt="Complete Home Interior Varanasi" loading="lazy">
+    <img src="https://i.ibb.co/GfqbSGQ5/inte.jpg" class="w-[90%] mx-auto h-[360px] object-contain" alt="Complete Home Interior Varanasi" loading="lazy">
     <div class="absolute top-5 left-5 bg-[#bd7339] text-black font-bold px-5 py-2 rounded-full text-sm">Trending</div>
     <div class="absolute bottom-5 right-5 bg-[#4b4947] text-white font-bold px-5 py-3 rounded-full text-xl">From ₹2.91L</div>
   </div>
