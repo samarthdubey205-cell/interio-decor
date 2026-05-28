@@ -275,6 +275,19 @@ app.get('/', (req, res) => {
                 <a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
             </div>
     </div>
+    <!-- Photo Card 9 -->
+        <div class="glass-card rounded-2xl overflow-hidden shadow-lg border border-white/5 group">
+            <div class="h-64 overflow-hidden">
+                <img src="https://i.ibb.co/99YXfrzb/hall.webp"
+                     alt="Hall Interior"
+                     class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
+            </div>
+            <div class="p-6">
+                <h3 class="text-xl font-semibold text-white mb-1">Hall Interior</h3>
+                <p class="text-gray-400 text-sm mb-4">Manrauli, Varanasi</p>
+                <a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+            </div>
+    </div>
 </section>
     <img
       src="https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1200&q=80" class="w-full h-[320px] object-cover"
