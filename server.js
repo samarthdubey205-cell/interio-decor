@@ -170,7 +170,7 @@ app.get('/', (req, res) => {
         <!-- Photo Card 1 -->
         <div class="glass-card rounded-2xl overflow-hidden shadow-lg border border-white/5 group">
             <div class="h-64 overflow-hidden">
-                <img src="https://i.ibb.co/MyRPgKkh/arc.webp"
+                <img src="https://i.ibb.co/Y7JL4GCK/arr.webp"
                      alt="Premium Modular Kitchen"
                      class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
             </div>
@@ -285,6 +285,32 @@ app.get('/', (req, res) => {
             <div class="p-6">
                 <h3 class="text-xl font-semibold text-white mb-1">Hall Interior</h3>
                 <p class="text-gray-400 text-sm mb-4">Manrauli, Varanasi</p>
+                <a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+            </div>
+    </div>
+    <!-- Photo Card 10 -->
+        <div class="glass-card rounded-2xl overflow-hidden shadow-lg border border-white/5 group">
+            <div class="h-64 overflow-hidden">
+                <img src="https://i.ibb.co/pvks8gPv/air.jpg"
+                     alt="TV Unit"
+                     class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
+            </div>
+            <div class="p-6">
+                <h3 class="text-xl font-semibold text-white mb-1">TV Unit</h3>
+                <p class="text-gray-400 text-sm mb-4">Bhelupur, Varanasi</p>
+                <a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+            </div>
+    </div>
+    <!-- Photo Card 11 -->
+        <div class="glass-card rounded-2xl overflow-hidden shadow-lg border border-white/5 group">
+            <div class="h-64 overflow-hidden">
+                <img src="https://i.ibb.co/3Y0p2ZqB/5-star.webp"
+                     alt="5-Star Interior"
+                     class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
+            </div>
+            <div class="p-6">
+                <h3 class="text-xl font-semibold text-white mb-1">5-Star Interior</h3>
+                <p class="text-gray-400 text-sm mb-4">Cantoment, Varanasi</p>
                 <a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
             </div>
     </div>
