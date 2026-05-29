@@ -423,7 +423,7 @@ we have 3 different packages for modular kitchen starting from 1100/sqft to 1700
   <div class="relative">
    
     <img
-        <img src="https://i.ibb.co/F4bdvKxT/tv-unit-good-image.jpg"class="w-full h-[320px]object cover"alt="tv unit">
+        <img src="https://i.ibb.co/Ld3rFbFL/resu.jpg"class="w-full h-[320px]object cover"alt="tv unit">
        
       class="w-full h-[320px] object-cover"
       alt="TV UNIT"
@@ -526,7 +526,7 @@ Fire Resistant Material--
 
   <div class="relative">
    
-    <img src="https://i.ibb.co/m5ThGfMq/wall-deco.jpg" class="w-full h-[320px] object-cover" alt="WALLPAPER DECOR">
+    <img src="https://i.ibb.co/wZDR8HZd/rag.jpg" class="w-full h-[320px] object-cover" alt="WALLPAPER DECOR">
 
     <div class="absolute top-5 left-5 bg-[#d2ae6d] text-black font-bold px-5 py-2 rounded-full text-sm">
      TRENDING
