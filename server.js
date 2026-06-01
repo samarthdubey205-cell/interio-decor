@@ -177,7 +177,7 @@ app.get('/', (req, res) => {
             <div class="p-6">
                 <h3 class="text-xl font-semibold text-white mb-1">Modern Acrylic Kitchen</h3>
                 <p class="text-gray-400 text-sm mb-4">Churamanpur, Varanasi</p>
-                <a href="https://wa.me/919172783704?text=Hi!%20I%20want%20to%20book%20the%20Matt%20Finish%20Premium%20Kitchen%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+                <a href="https://wa.me/919172783704?text=Hi!%20I%20want%20to%20book%20the%20Compact%20Modular%20Kitchen%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
             </div>
         </div>
 
