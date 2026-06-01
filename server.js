@@ -17,7 +17,7 @@ app.get('/', (req, res) => {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
    
     <title>interio decor | Premium Modular Kitchens & Wardrobes in Varanasi</title>
-    <meta name="description" content="Transform your home with luxury modular kitchens and custom wardrobes by Vidya Timber. Serving Sigra, Lanka, Nadesar, and across Varanasi. Book a free consultation today.">
+    <meta name="description" content="Transform your home with luxury modular kitchens and custom wardrobes by Interio Decor. Serving Sigra, Lanka, Nadesar, and across Varanasi. Book a free consultation today.">
     <meta name="keywords" content="modular kitchen Varanasi, wardrobe designers Varanasi, luxury interiors Sigra, kitchen chimney Lanka, home interior interio decor, custom wardrobes Nadesar, Varanasi interior design, modular kitchen installation Varanasi, best interior studio Varanasi">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -177,7 +177,7 @@ app.get('/', (req, res) => {
             <div class="p-6">
                 <h3 class="text-xl font-semibold text-white mb-1">Modern Acrylic Kitchen</h3>
                 <p class="text-gray-400 text-sm mb-4">Churamanpur, Varanasi</p>
-                <a href="https://wa.me/91XXXXXXXXXX?text=Hi!%20I%20want%20to%20book%20the%20Matt%20Finish%20Premium%20Kitchen%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+                <a href="https://wa.me/919172783704?text=Hi!%20I%20want%20to%20book%20the%20Matt%20Finish%20Premium%20Kitchen%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
             </div>
         </div>
 
