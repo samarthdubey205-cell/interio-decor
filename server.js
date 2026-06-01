@@ -191,7 +191,7 @@ app.get('/', (req, res) => {
             <div class="p-6">
                 <h3 class="text-xl font-semibold text-white mb-1">Matt Finish Premium Kitchen</h3>
                 <p class="text-gray-400 text-sm mb-4">Lanka, Varanasi</p>
-                <a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+                <a href="https://wa.me/919172783704?text=Hi!%20I%20want%20to%20book%20the%20Compact%20Modular%20Kitchen%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
             </div>
         </div>
 
@@ -205,7 +205,7 @@ app.get('/', (req, res) => {
             <div class="p-6">
                 <h3 class="text-xl font-semibold text-white mb-1">Space-Saving Modular Setup</h3>
                 <p class="text-gray-400 text-sm mb-4">Cantt, Varanasi</p>
-                <a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+                <a href="https://wa.me/919172783704?text=Hi!%20I%20want%20to%20book%20the%20Compact%20Modular%20Kitchen%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
             </div>
         </div>
 <!-- Photo Card 4 -->
@@ -218,7 +218,7 @@ app.get('/', (req, res) => {
             <div class="p-6">
                 <h3 class="text-xl font-semibold text-white mb-1">Complete Home Interior</h3>
                 <p class="text-gray-400 text-sm mb-4">Nadesar, Varanasi</p>
-                <a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+                <a href="https://wa.me/919172783704?text=Hi!%20I%20want%20to%20book%20the%20Compact%20Modular%20Kitchen%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
             </div>
     </div>
     
@@ -232,7 +232,7 @@ app.get('/', (req, res) => {
             <div class="p-6">
                 <h3 class="text-xl font-semibold text-white mb-1">Bedroom Furniture</h3>
                 <p class="text-gray-400 text-sm mb-4">Bhelupur, Varanasi</p>
-                <a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+                <a href="https://wa.me/919172783704?text=Hi!%20I%20want%20to%20book%20the%20Compact%20Modular%20Kitchen%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
             </div>
     </div>
     
@@ -246,7 +246,7 @@ app.get('/', (req, res) => {
             <div class="p-6">
                 <h3 class="text-xl font-semibold text-white mb-1">Puja Unit</h3>
                 <p class="text-gray-400 text-sm mb-4">Mohamsarai, Varanasi</p>
-                <a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+                <a href="https://wa.me/919172783704?text=Hi!%20I%20want%20to%20book%20the%20Compact%20Modular%20Kitchen%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
             </div>
     </div>
     <!-- Photo Card 7 -->
@@ -259,7 +259,7 @@ app.get('/', (req, res) => {
             <div class="p-6">
                 <h3 class="text-xl font-semibold text-white mb-1">Wallpaper Decor</h3>
                 <p class="text-gray-400 text-sm mb-4">Sigra, Varanasi</p>
-                <a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+                <a href="https://wa.me/919172783704?text=Hi!%20I%20want%20to%20book%20the%20Compact%20Modular%20Kitchen%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
             </div>
     </div>
     <!-- Photo Card 8 -->
@@ -272,7 +272,7 @@ app.get('/', (req, res) => {
             <div class="p-6">
                 <h3 class="text-xl font-semibold text-white mb-1">False Ceiling</h3>
                 <p class="text-gray-400 text-sm mb-4">BHU, Varanasi</p>
-                <a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+                <a href="https://wa.me/919172783704?text=Hi!%20I%20want%20to%20book%20the%20Compact%20Modular%20Kitchen%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
             </div>
     </div>
     <!-- Photo Card 9 -->
@@ -285,7 +285,7 @@ app.get('/', (req, res) => {
             <div class="p-6">
                 <h3 class="text-xl font-semibold text-white mb-1">Hall Interior</h3>
                 <p class="text-gray-400 text-sm mb-4">Manrauli, Varanasi</p>
-                <a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+                <a href="https://wa.me/919172783704?text=Hi!%20I%20want%20to%20book%20the%20Compact%20Modular%20Kitchen%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
             </div>
     </div>
     <!-- Photo Card 10 -->
@@ -298,7 +298,7 @@ app.get('/', (req, res) => {
             <div class="p-6">
                 <h3 class="text-xl font-semibold text-white mb-1">TV Unit</h3>
                 <p class="text-gray-400 text-sm mb-4">Bhelupur, Varanasi</p>
-                <a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+                <a href="https://wa.me/919172783704?text=Hi!%20I%20want%20to%20book%20the%20Compact%20Modular%20Kitchen%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
             </div>
     </div>
     <!-- Photo Card 11 -->
@@ -311,7 +311,7 @@ app.get('/', (req, res) => {
             <div class="p-6">
                 <h3 class="text-xl font-semibold text-white mb-1">5-Star Interior</h3>
                 <p class="text-gray-400 text-sm mb-4">Cantoment, Varanasi</p>
-                <a href="#booking" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+                <a href="https://wa.me/919172783704?text=Hi!%20I%20want%20to%20book%20the%20Compact%20Modular%20Kitchen%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
             </div>
     </div>
 </section>
