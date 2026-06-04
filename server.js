@@ -161,7 +161,7 @@ app.get('/', (req, res) => {
 <section id="gallery" class="py-16 px-4 max-w-7xl mx-auto">
     <div class="text-center mb-12">
         <h2 class="text-3xl font-bold text-white mb-2">Our Luxury Creations</h2>
-        <p class="text-gray-400">Real modular kitchens designed and installed in Varanasi</p>
+        <p class="text-gray-400">Real modular kitchens and Room Interors designed and installed in Varanasi</p>
     </div>
 
     <!-- Responsive Photo Grid (3 columns on laptop, 1 on mobile) -->
