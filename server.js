@@ -326,7 +326,20 @@ app.get('/', (req, res) => {
                 <p class="text-gray-400 text-sm mb-4">Varanasi</p>
                 <a href="https://wa.me/919172783704?text=Hi!%20I%20want%20to%20book%20the%20Compact%20Modular%20Kitchen%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
             </div>
-       </div>       
+       </div> 
+        <!-- Photo Card 13 -->
+        <div class="glass-card rounded-2xl overflow-hidden shadow-lg border border-white/5 group">
+            <div class="h-64 overflow-hidden">
+                <img src="https://i.ibb.co/rGCTXgKm/art.jpg"
+                     alt="Wall Art"
+                     class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
+            </div>
+            <div class="p-6">
+                <h3 class="text-xl font-semibold text-white mb-1">Wall Art</h3>
+                <p class="text-gray-400 text-sm mb-4"> Lanka,Varanasi</p>
+                <a href="https://wa.me/919172783704?text=Hi!%20I%20want%20to%20book%20the%20Compact%20Modular%20Kitchen%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+            </div>
+       </div>  
 </section>
     <img
       src="https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1200&q=80" class="w-full h-[320px] object-cover"
