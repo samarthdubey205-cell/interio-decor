@@ -246,7 +246,7 @@ app.get('/', (req, res) => {
             <div class="p-6">
                 <h3 class="text-xl font-semibold text-white mb-1">Puja Unit</h3>
                 <p class="text-gray-400 text-sm mb-4">Mohamsarai, Varanasi</p>
-                <a href="https://wa.me/919172783704?text=Hi!%20I%20want%20to%20book%20the%20Compact%20puja%20unit%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+                <a href="https://wa.me/919172783704?text=Hi!%20I%20want%20to%20book%20the%20puja%20unit%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
             </div>
     </div>
     <!-- Photo Card 7 -->
@@ -259,7 +259,7 @@ app.get('/', (req, res) => {
             <div class="p-6">
                 <h3 class="text-xl font-semibold text-white mb-1">Wallpaper Decor</h3>
                 <p class="text-gray-400 text-sm mb-4">Sigra, Varanasi</p>
-                <a href="https://wa.me/919172783704?text=Hi!%20I%20want%20to%20book%20the%20Compact%20wallpaper%20decor%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+                <a href="https://wa.me/919172783704?text=Hi!%20I%20want%20to%20book%20the%20wallpaper%20decor%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
             </div>
     </div>
     <!-- Photo Card 8 -->
@@ -272,7 +272,7 @@ app.get('/', (req, res) => {
             <div class="p-6">
                 <h3 class="text-xl font-semibold text-white mb-1">False Ceiling</h3>
                 <p class="text-gray-400 text-sm mb-4">BHU, Varanasi</p>
-                <a href="https://wa.me/919172783704?text=Hi!%20I%20want%20to%20book%20the%20Compact%20false%20ceiling%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+                <a href="https://wa.me/919172783704?text=Hi!%20I%20want%20to%20book%20the%20false%20ceiling%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
             </div>
     </div>
     <!-- Photo Card 9 -->
@@ -285,7 +285,7 @@ app.get('/', (req, res) => {
             <div class="p-6">
                 <h3 class="text-xl font-semibold text-white mb-1">Hall Interior</h3>
                 <p class="text-gray-400 text-sm mb-4">Manrauli, Varanasi</p>
-                <a href="https://wa.me/919172783704?text=Hi!%20I%20want%20to%20book%20the%20Compact%20hall%20interior%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
+                <a href="https://wa.me/919172783704?text=Hi!%20I%20want%20to%20book%20the%20hall%20interior%20design." target="_blank" class="inline-block text-sm text-blue-400 font-medium hover:underline">Book Similar Design →</a>
             </div>
     </div>
     <!-- Photo Card 10 -->
